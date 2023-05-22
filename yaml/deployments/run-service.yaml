@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/identiverse:unison-test-user-1-workshop-application-26e8fe2ffe75ec052f24cdb05dd2311b78ba2a6d
+      - image: public.ecr.aws/o6u7e2l7/identiverse:unison-test-user-1-workshop-application-749f8a135bc30437396ecfbcd3e072cf1087be10
         imagePullPolicy: Always
         name: pause
         resources: {}
